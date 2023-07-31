@@ -1,0 +1,14 @@
+.img-high{
+    height: auto !important;
+}
+img{
+    height: 10rem;
+}
+.btn{
+    border-radius: 0;
+    text-decoration: underline;
+}
+#blue-2{
+    background-color: rgb(9, 61, 128);
+    color: white;
+}
